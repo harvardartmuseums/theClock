@@ -3,6 +3,9 @@ Data Visualization: The Clock
 3D interactive data visualization
 Spring, 2015 
 
+![The Clock in the Lightbox](https://ids.lib.harvard.edu/ids/view/426169394?width=2450&height=2450)
+[See it in motion](https://vimeo.com/154085159)
+
 Data from Harvard Art Museums API 
 
 - Press and drag the mouse to rotate the visualization 
